@@ -7,5 +7,5 @@ Library    SeleniumLibrary
 *** Keywords ***
 Open Test System
     [Documentation]    Open test system, the carconfigurator from imbus
-    Open Browser    https://vsr.testbench.com/    edge    Edge
+    Open Browser    https://vsr.testbench.com/    chrome
     Maximize Browser Window
